@@ -1,0 +1,35 @@
+#header-nav{
+	background-color: maroon;
+	border-radius: 0;
+	border: 0;
+}
+
+#nav-list{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#nav-list a{
+	border-bottom: 1px solid #E7E7E7;
+}
+
+#nav-list a:hover {
+    background: #E7E7E7;
+}
+
+#header-nav .navbar-brand{
+	font-size: 24px;
+}
+
+.menu-item {
+	background-color: #CCC;
+}
+
+.menu-item > h3{
+	padding-top: 5px;
+}
+
+.menu-item > p{
+	padding: 10px;
+	
+}
